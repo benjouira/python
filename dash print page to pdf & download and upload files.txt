@@ -1,0 +1,23 @@
+dash client side callback:
+https://www.youtube.com/watch?v=wHUzUHTPfo0
+
+dash dragble and resizble component
+https://dash-draggable.readthedocs.io/en/latest/index.html
+
+
+download and upload files in dash
+https://docs.faculty.ai/user-guide/apps/examples/dash_file_upload_download.html
+
+
+
+
+
+
+
+
+not important any more
+
+https://www.youtube.com/watch?v=ri4flu1Jn4Y
+
+streamlite
+https://discuss.streamlit.io/t/creating-a-pdf-file-generator/7613
