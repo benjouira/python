@@ -51,13 +51,5 @@ class PwdEncryptor:
 
 
 
-                          def updateCredentials(self,plateforme,username,password):
-                                encPwd=str(self.Encrypt(password))
-                                df=pd.read_csv('static/security/password.epwd')
-                                index=df.index[(df['plateforme']==plateforme) & (df['username']==username)].tolist()
-                                df.at[index,'password']=encPwd
-                                df.to_csv('static/security/password.epwd')
-
-
 
 
