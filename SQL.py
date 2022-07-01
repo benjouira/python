@@ -70,3 +70,4 @@ db.getTablesNames()
 db.getTableFields(db.tablename[0])
 # db.getProcceduresStockesUti()
 # db.getJobs()
+
